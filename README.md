@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pdupadhyay" alt="pdupadhyay" /></a> </p>
 
-- 🔭 I’m currently working on **Location Data Analysis**
+- 🔭 I’m currently working on **Web Development and Location Data Analysis**
 
 - 🌱 I’m currently learning **AWS Cloud, Software Engineering and Data Analysis via ML Models**
 
